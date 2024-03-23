@@ -1,9 +1,5 @@
 #Tic Tac Toe Game
 
-
-Here's a sample description for a Tic Tac Toe game on GitHub:
-
-Tic Tac Toe Game
 This is a simple implementation of the classic Tic Tac Toe game built using HTML, CSS, and JavaScript.
 
 Features
